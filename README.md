@@ -1,4 +1,4 @@
-# JavaScript server for [4tests](https://github.com/maninmiddle/4tests-MVVVM)
+# JavaScript server for [4tests](https://github.com/maninmiddle/4tests-MVVM)
 
 ## Setup
 1. Сlone the repository
